@@ -1,3 +1,6 @@
+Copied from https://github.com/marmotlab/ARiADNE-ROS-Planner/tree/main/src to test changes for implementation with 2D lidar
+
+
 # ARiADNE-ROS-Planner
 
 ARiADNE is **A** **R**e**i**nforcement learning apporach using **A**ttention-based **D**eep **N**etwork.
